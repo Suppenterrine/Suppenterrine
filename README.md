@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Suppenterrine
-- 👀 I’m interested in coding and stuff
-- 🌱 I’m currently learning python and other things
+- 🌱 I’m coding mostly in python and javascript
 
 A very important thing to me is: ☕
 
