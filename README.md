@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Suppenterrine
-- 🌱 I’m coding mostly in python and javascript
+- 🌱 I’m coding mostly in Python and Javascript
+- 🍂 Currently learning Rust
 
 A very important thing to me is: ☕
 
