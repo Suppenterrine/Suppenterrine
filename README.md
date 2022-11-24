@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Suppenterrine
+# 👋 This is @Suppenterrine
 - 🌱 I’m coding mostly in Python and Javascript
-- 🍂 Currently learning Rust
+- 🍂 **Wanting** to code with React and Rust
 
-A very important thing to me is: ☕
+> POV you see me working:
 
-![image](https://github.com/Suppenterrine/Suppenterrine/blob/main/coffee_gif.gif)
+![image](https://media.giphy.com/media/fsoCk5kgOcYMM/giphy.gif)
 
+bye 🍜 <br>
+PS: Don't forget to eat your milk 🥛
 <!---
 Suppenterrine/Suppenterrine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
