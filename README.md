@@ -1,6 +1,6 @@
 # 👋 This is @Suppenterrine
-- 🌱 I’m coding mostly in Python and Javascript
-- 🍂 **Wanting** to code with React and Rust
+- 🍂 I’m coding mostly in Python and Javascript
+- 🪴 **GPT** rubberduck 🦆
 
 > POV you see me working:
 
